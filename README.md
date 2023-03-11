@@ -1,2 +1,2 @@
-# goland_start
-A Imersive golang course
+# GO
+A Simple Api with Golang
